@@ -1,5 +1,5 @@
 # Versa64Case
-A case for the <a ref="https://github.com/bwack/Versa64Cart">Versa64Cart</a> of Rev. 1.2 or later, which gives access to the jumpers and DIP-switch via a lid, which can be opened without tools. Versa64Cart64 fits into this case, too. But since the jumpers are in a different position, they cannot be accessed. 
+A case for the <a href="https://github.com/bwack/Versa64Cart">Versa64Cart</a> of Rev. 1.2 or later, which gives access to the jumpers and DIP-switch via a lid, which can be opened without tools. Versa64Cart64 fits into this case, too. But since the jumpers are in a different position, they cannot be accessed. 
 
 The lid has a built in plunger for the reset button. There are three opf those plungers to choose from, depending on the height of the used tact switch. Those heights are 4.3mm, 5mm and 7mm.
 
