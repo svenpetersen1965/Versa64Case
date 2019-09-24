@@ -8,3 +8,5 @@ The lid has a built in plunger for the reset button. There are three opf those p
 <img src="https://github.com/svenpetersen1965/Versa64Case/blob/master/Rev.%200/pictures/Versa64Case_open_lid.png" width="300" alt="Versa64Case (open lid)">
 
 <img src="https://github.com/svenpetersen1965/Versa64Case/blob/master/Rev.%200/pictures/Versa64Case_top_lid.png" width="300" alt="Versa64Case (top, lid with reset plunger)">
+
+I want to thank Sean Harrington for his first draft of the case. Many of his ideas have been used in this design.
